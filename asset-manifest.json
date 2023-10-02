@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/labordetrabajo/Todolist/static/css/main.bbce1e86.css",
+    "main.js": "/labordetrabajo/Todolist/static/js/main.1230dd5f.js",
+    "index.html": "/labordetrabajo/Todolist/index.html",
+    "static/media/delete.svg": "/labordetrabajo/Todolist/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/labordetrabajo/Todolist/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.bbce1e86.css.map": "/labordetrabajo/Todolist/static/css/main.bbce1e86.css.map",
+    "main.1230dd5f.js.map": "/labordetrabajo/Todolist/static/js/main.1230dd5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbce1e86.css",
+    "static/js/main.1230dd5f.js"
+  ]
+}
